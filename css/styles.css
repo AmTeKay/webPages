@@ -3,10 +3,12 @@ hr {
   border-width: 10px;
   border-top-style: dotted;
   color: #A68DAD;
-  width: 8%
+  width: 8%;
+  margin: 100px auto;
 }
 
 body {
+color: #40514E;
   font-family: 'Merriweather', serif;
   margin: 0;
   text-align: center;
@@ -61,12 +63,12 @@ h3 {
 }
 
 .about {
-  width: 45%;
+  width: 40%;
   margin: 40px auto;
 }
 
 .h_skill {
-  margin-top: 50px;
+  margin-top: 80px;
 }
 
 .top_cloud {
@@ -77,7 +79,7 @@ h3 {
 
 .bot_cloud {
   bottom: 300px;
-  left: 300px;
+  left: 250px;
   position: absolute;
 }
 
@@ -108,8 +110,8 @@ h3 {
 }
 
 .contact-me {
-  width: 50%;
-  margin: 50px auto;
+  width: 40%;
+  margin: 40px auto 60px;
   line-height: 2;
 }
 
@@ -119,6 +121,7 @@ h3 {
   color: white;
   height: 30px;
   margin: 40px;
+
 }
 
 .header_div {
