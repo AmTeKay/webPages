@@ -142,13 +142,20 @@ h3 {
 
 .copyright {
   color: white;
+  font-size: 0.75rem;
   position: relative;
   top: 40px;
 }
 
-.footer-link {
+a {
   color: #DFD3C3;
+  font-family: 'Comfortaa', cursive;
   margin: 0 40px;
   position: relative;
   top: 30px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #A68DAD;
 }
