@@ -1,0 +1,151 @@
+hr {
+  border: none;
+  border-width: 10px;
+  border-top-style: dotted;
+  color: #A68DAD;
+  width: 8%
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #C7B198;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 0 auto;
+  width: 40%;
+}
+
+h2 {
+  color: #C7B198;
+  font-family: 'Comfortaa', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #DFD3C3;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.can-do {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.can-help {
+  width: 50%;
+  margin: 50px auto;
+  line-height: 2;
+}
+
+.header_div {
+  background-color: #F0ECE3;
+  margin: 0;
+  padding-top: 150px;
+  position: relative;
+  width: 100%;
+}
+
+.about {
+  width: 45%;
+  margin: 40px auto;
+}
+
+.h_skill {
+  margin-top: 50px;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 250px;
+  top: 100px;
+}
+
+.bot_cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+}
+
+.profile_pic {
+  border-radius: 150px;
+  height: 150px;
+  margin: 10px;
+  margin-top: 60px;
+}
+
+
+.network_img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.python_img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.data_img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 50px auto;
+  line-height: 2;
+}
+
+.message_box {
+  background-color: #DFD3C3;
+  border-radius: 10px;
+  color: white;
+  height: 30px;
+  margin: 40px;
+}
+
+.header_div {
+  background-color: #F0ECE3;
+  margin: 0;
+  padding-top: 150px;
+  position: relative;
+  width: 100%;
+}
+
+.bottom_container {
+  background-color: #F0ECE3;
+  margin: 0;
+  width: 100%;
+  height: 120px;
+  position: relative;
+}
+
+.copyright {
+  color: white;
+  position: relative;
+  top: 40px;
+}
+
+.footer-link {
+  color: #DFD3C3;
+  margin: 0 40px;
+  position: relative;
+  top: 30px;
+}
